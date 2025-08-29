@@ -1,15 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Gunjan
 
+Welcome to my GitHub!
 
-**GunjanKhatrii/GunjanKhatrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Scientist with a passion for learning, exploring, and building. I'm currently diving deep into Python, SQL, and machine learning, and I'm excited to share some of the projects I've been working on here.
 
-Here are some ideas to get you started:
+### 🔧 Tools & Technologies:
+- Python & ML libraries (NumPy, Pandas, Scikit-learn, Seaborn, Bokeh etc.)
+- SQL for data analysis and querying
+- Linux OS for development and scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm still in the early stages of my data science journey — always experimenting, growing, and learning something new every day.
+
+Thanks for stopping by! I hope you enjoy exploring my work. 😊
+
