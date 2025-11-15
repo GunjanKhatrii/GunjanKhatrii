@@ -10,7 +10,7 @@ I'm an aspiring Machine Learning Student with a passion for learning, exploring,
 - SQL for data analysis and querying
 - Linux OS for development and scripting
 
-I'm still in the early stages of my data science journey — always experimenting, growing, and learning something new every day.
+I'm still in the early stages of my Machine Learning journey — always experimenting, growing, and learning something new every day.
 
 Thanks for stopping by! I hope you enjoy exploring my work. 😊
 
