@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm an aspiring Machine Learning Student with a passion for learning, exploring, and building. I'm currently diving deep into Python, SQL, and machine learning, and I'm excited to share some of the projects I've been working on here.
+I'm an aspiring Machine Learning Student with a passion for learning, exploring, and building. I am proficient in Python and SQL. I'm currently diving deep into Artificial Intelligence and machine learning, and I'm excited to share some of the projects I've been working on here.
 
 ### 🔧 Tools & Technologies:
 - Python & ML libraries (NumPy, Pandas, Scikit-learn, Seaborn, Bokeh etc.)
